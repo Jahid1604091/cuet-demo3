@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/cuet-demo3/static/css/main.90b66817.chunk.css",
+    "main.js": "/cuet-demo3/static/js/main.b0cedb7e.chunk.js",
+    "main.js.map": "/cuet-demo3/static/js/main.b0cedb7e.chunk.js.map",
+    "runtime-main.js": "/cuet-demo3/static/js/runtime-main.a7fa408a.js",
+    "runtime-main.js.map": "/cuet-demo3/static/js/runtime-main.a7fa408a.js.map",
+    "static/js/2.c20a3283.chunk.js": "/cuet-demo3/static/js/2.c20a3283.chunk.js",
+    "static/js/2.c20a3283.chunk.js.map": "/cuet-demo3/static/js/2.c20a3283.chunk.js.map",
+    "index.html": "/cuet-demo3/index.html",
+    "static/css/main.90b66817.chunk.css.map": "/cuet-demo3/static/css/main.90b66817.chunk.css.map",
+    "static/js/2.c20a3283.chunk.js.LICENSE.txt": "/cuet-demo3/static/js/2.c20a3283.chunk.js.LICENSE.txt",
+    "static/media/a graduate.dfbb0e6d.jpg": "/cuet-demo3/static/media/a graduate.dfbb0e6d.jpg",
+    "static/media/admns-blding.9027bdb5.jpg": "/cuet-demo3/static/media/admns-blding.9027bdb5.jpg",
+    "static/media/audi.29a96f3e.jpg": "/cuet-demo3/static/media/audi.29a96f3e.jpg",
+    "static/media/banner-2.9499e7b8.jpg": "/cuet-demo3/static/media/banner-2.9499e7b8.jpg",
+    "static/media/cuetlogo.6349adeb.png": "/cuet-demo3/static/media/cuetlogo.6349adeb.png",
+    "static/media/incubator4.e22e57df.jpg": "/cuet-demo3/static/media/incubator4.e22e57df.jpg",
+    "static/media/mujib100.031897bd.png": "/cuet-demo3/static/media/mujib100.031897bd.png",
+    "static/media/vc building.8518e25c.jpg": "/cuet-demo3/static/media/vc building.8518e25c.jpg",
+    "static/media/vc.33cdcde1.jpg": "/cuet-demo3/static/media/vc.33cdcde1.jpg",
+    "static/media/webiner.71973f51.jpg": "/cuet-demo3/static/media/webiner.71973f51.jpg",
+    "static/media/webiner2.73ab3e6c.jpg": "/cuet-demo3/static/media/webiner2.73ab3e6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7fa408a.js",
+    "static/js/2.c20a3283.chunk.js",
+    "static/css/main.90b66817.chunk.css",
+    "static/js/main.b0cedb7e.chunk.js"
+  ]
+}
